@@ -1,4 +1,3 @@
-package SinglyLL;
 class Node{
     int data;
     Node next;
