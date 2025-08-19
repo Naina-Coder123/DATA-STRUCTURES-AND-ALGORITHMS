@@ -1,1 +1,1 @@
-                    nh = nh.next;
+                // if(front!=null)
